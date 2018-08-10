@@ -1,3 +1,12 @@
+---
+title: swift4-0起步系列-0x02-方法
+date: 2018-08-01 11:03:48
+tags: 
+- swift
+- ios
+categories: 
+- IOS-Swift4
+---
 #方法
 ---
 ###实例方法
